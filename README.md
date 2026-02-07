@@ -17,7 +17,7 @@ Introduction to the Zig language, covering basic syntax, variables, control stru
 
 ---
 
-<img style="max-width:800px" src="https://zenofzig.com/img/zoz_v1_cover_en.png" alt="Zen of Zig Volume 1">
+<img width="400" src="https://zenofzig.com/img/zoz_v1_cover_en.png" alt="Zen of Zig Volume 1">
 
 ---
 
