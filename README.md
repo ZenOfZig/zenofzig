@@ -11,7 +11,8 @@ Zen of Zig is a book series that teaches the Zig programming language from the g
 
 Introduction to the Zig language, covering basic syntax, variables, control structures, and first programs – with original illustrations by Jan Eidan.
 
-[Repository with examples](https://github.com/zenofzig/zoz1-learn-programming-with-zig)
+[Repository with examples](https://codeberg.org/zenofzig/zoz1-learn-programming-with-zig)
+[Mirror](https://github.com/zenofzig/zoz1-learn-programming-with-zig)
 
 [Read online](https://zenofzig.com)  
 or  
