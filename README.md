@@ -16,6 +16,10 @@ or
 Introduction to the Zig language, covering basic syntax, variables, control structures, and first programs – with original illustrations by Jan Eidan.
 
 ---
+<p align="center">
+  <img src="https://zenofzig.com/img/zoz_v1_cover_en.png" alt="Zen of Zig Volume 1">
+</p>
+---
 
 ## Chapters in Volume 1  
 **ZEN OF ZIG**  
