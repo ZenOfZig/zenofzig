@@ -11,7 +11,7 @@ Zen of Zig is a book series that teaches the Zig programming language from the g
 
 [Read online](https://zenofzig.com)  
 or  
-[BUY ON LEANPUB](https://leanpub.com/zenofzig)
+[BUY ON GUMROAD](https://zenofzig.gumroad.com/l/zenofzig)
 
 Introduction to the Zig language, covering basic syntax, variables, control structures, and first programs – with original illustrations by Jan Eidan.
 
